@@ -1,3 +1,4 @@
-numpy==1.25.2
-plotly==5.11.0
+numpy==1.24.0
+plotly==6.6.0
+streamlit==1.28.0
 # 可以根据实际需求添加其他依赖，比如pandas、numpy等
